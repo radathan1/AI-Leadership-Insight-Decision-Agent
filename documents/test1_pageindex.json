@@ -1,0 +1,107 @@
+{
+  "doc_name": "test1.pdf",
+  "doc_description": "This document, titled \"Condensed Consolidated Financial Statements,\" provides a comprehensive overview of Advantest Corporation's financial health for the periods ending March 31, 2018, and December 31, 2018, highlighting significant increases in total assets and equity, a decrease in liabilities, and substantial growth in net income and cash flow, all prepared in compliance with IFRS and presented in Japanese Yen.",
+  "structure": [
+    {
+      "title": "Condensed Consolidated Financial Statements",
+      "structure": "1",
+      "start_index": 2,
+      "end_index": 2,
+      "nodes": [
+        {
+          "title": "Condensed Consolidated Statement of Financial Position",
+          "structure": "1.1",
+          "start_index": 2,
+          "end_index": 2,
+          "nodes": [],
+          "node_id": "0001",
+          "summary": "The Condensed Consolidated Statement of Financial Position reveals an increase in total assets from ¥254,559 million in March 2018 to ¥296,594 million in December 2018, driven by growth in both current and non-current assets. Total liabilities decreased from ¥129,949 million to ¥108,454 million, primarily due to a reduction in current liabilities. Equity attributable to the owners of the parent rose significantly from ¥124,610 million to ¥188,140 million, largely due to an increase in retained earnings and a reduction in treasury shares."
+        },
+        {
+          "title": "Condensed Consolidated Statement of Profit or Loss and Condensed Consolidated Statement of Comprehensive Income",
+          "structure": "1.2",
+          "start_index": 3,
+          "end_index": 4,
+          "nodes": [],
+          "node_id": "0002",
+          "summary": "The Condensed Consolidated Statement of Profit or Loss and Comprehensive Income reveals significant financial growth for the company between the nine months and three months ended December 31, 2017, and December 31, 2018. Net sales and net income saw substantial increases, with net income rising from ¥7,473 million to ¥48,051 million over the nine-month period. Earnings per share also improved markedly, reflecting enhanced profitability. The comprehensive income, which includes other comprehensive income items such as remeasurements of the defined benefit pension plan and exchange differences on foreign operations, also showed a notable increase, indicating overall financial health and positive performance."
+        },
+        {
+          "title": "Condensed Consolidated Statement of Changes in Equity",
+          "structure": "1.3",
+          "start_index": 5,
+          "end_index": 5,
+          "nodes": [],
+          "node_id": "0003",
+          "summary": "The Condensed Consolidated Statement of Changes in Equity details the changes in equity for the nine months ending December 31, 2017, and December 31, 2018. In 2017, the company reported a net income of ¥7,473 million and other comprehensive income of ¥2,389 million, resulting in a total comprehensive income of ¥9,862 million. In 2018, the net income significantly increased to ¥48,051 million, with other comprehensive income of ¥4,489 million, leading to a total comprehensive income of ¥52,540 million. Key transactions affecting equity included the purchase and disposal of treasury shares, dividends, share-based payments, and the conversion of convertible bonds, resulting in a substantial increase in total equity from ¥117,218 million in 2017 to ¥188,140 million in 2018."
+        },
+        {
+          "title": "Condensed Consolidated Statement of Cash Flows",
+          "structure": "1.4",
+          "start_index": 6,
+          "end_index": 6,
+          "nodes": [],
+          "node_id": "0004",
+          "summary": "The Condensed Consolidated Statement of Cash Flows outlines the cash flow activities for the nine months ended December 31, 2017, and 2018. Key findings include a significant increase in net cash provided by operating activities from ¥13,102 million in 2017 to ¥35,858 million in 2018, driven by higher income before taxes and adjustments in working capital. Investing activities resulted in a net cash outflow, with a more substantial outflow in 2018 due to increased purchases of property, plant, and equipment. Financing activities also saw net cash outflows, primarily due to dividends paid, with a decrease in outflows from ¥17,101 million in 2017 to ¥13,814 million in 2018. Overall, the net change in cash and cash equivalents was positive in 2018, leading to an increase in the ending balance."
+        }
+      ],
+      "node_id": "0000",
+      "prefix_summary": "The Condensed Consolidated Financial Statements section provides a snapshot of the company's financial position as of March 31, 2018, and December 31, 2018. Key highlights include an increase in total assets from ¥254,559 million to ¥296,594 million, driven by growth in both current and non-current assets. Total liabilities decreased from ¥129,949 million to ¥108,454 million, while total equity rose significantly from ¥124,610 million to ¥188,140 million, indicating improved financial health and shareholder value."
+    },
+    {
+      "title": "Notes to the Condensed Consolidated Financial Statements",
+      "structure": "2",
+      "start_index": 7,
+      "end_index": 7,
+      "nodes": [
+        {
+          "title": "Reporting Entity",
+          "structure": "2.1",
+          "start_index": 7,
+          "end_index": 7,
+          "nodes": [],
+          "node_id": "0006",
+          "summary": "Advantest Corporation, a public company in Japan, produces semiconductor test systems and related products, and engages in R&D and support services. The company's condensed consolidated financial statements, prepared in compliance with IFRS and presented in Japanese Yen, are based on historical cost with certain financial assets and liabilities measured at fair value. Significant accounting policies remain consistent with the previous fiscal year, except for the adoption of IFRS 9, which reclassifies financial instruments but does not impact the company's financial results for the nine months ended December 31, 2018."
+        },
+        {
+          "title": "Basis of Preparation",
+          "structure": "2.2",
+          "start_index": 7,
+          "end_index": 7,
+          "nodes": [],
+          "node_id": "0007",
+          "summary": "The \"Basis of Preparation\" section outlines that Advantest Corporation's condensed consolidated financial statements are prepared in compliance with IFRS, specifically IAS 34, and are presented in Japanese Yen. These statements are based on historical cost, with certain financial assets and liabilities measured at fair value. The section also highlights the adoption of IFRS 9 for financial instruments, which did not impact the company's financial results for the nine months ended December 31, 2018, and details changes in the classification and measurement of financial instruments, including the treatment of equity and debt instruments."
+        },
+        {
+          "title": "Significant Accounting Policies",
+          "structure": "2.3",
+          "start_index": 7,
+          "end_index": 7,
+          "nodes": [],
+          "node_id": "0008",
+          "summary": "The section outlines the significant accounting policies of Advantest Corporation, highlighting its compliance with IFRS and the adoption of IFRS 9 for financial instruments. The company prepares its condensed consolidated financial statements in accordance with IAS 34, using Japanese Yen as the functional currency. The adoption of IFRS 9, which replaces IAS 39, introduces new rules for the classification, measurement, and hedge accounting of financial instruments, but did not impact Advantest's financial results for the nine months ended December 31, 2018. Changes in the classification of financial instruments include equity instruments now measured at fair value through other comprehensive income and debt instruments at fair value through profit or loss."
+        },
+        {
+          "title": "Significant Accounting Judgments, Estimates and Assumptions",
+          "structure": "2.4",
+          "start_index": 8,
+          "end_index": 8,
+          "nodes": [],
+          "node_id": "0009",
+          "summary": "The section discusses Advantest's adoption of new accounting standards, specifically the transition from IAS 39 to IFRS 9 for measuring impairment of financial instruments and the adoption of IFRS 15 for revenue recognition. Under IFRS 9, Advantest now uses an expected credit loss model without restating prior periods. With IFRS 15, revenue is recognized based on a five-step model, leading to changes in the recognition of performance obligations and adjustments in financial statements, including increases in trade receivables and liabilities, and decreases in net sales and income. The section also highlights the importance of significant accounting judgments, estimates, and assumptions in preparing financial statements, noting that these are based on management's best judgment and are subject to change."
+        }
+      ],
+      "node_id": "0005",
+      "prefix_summary": "The document section outlines the financial reporting practices of Advantest Corporation, a Japanese company specializing in semiconductor and mechatronics-related products. The condensed consolidated financial statements are prepared in compliance with IFRS, specifically IAS 34, and are presented in Japanese Yen. The section highlights the adoption of IFRS 9 for financial instruments, which did not impact the company's financial results for the nine months ending December 31, 2018. The new standard affects the classification and measurement of financial instruments, with equity instruments now measured at fair value through other comprehensive income and debt instruments at fair value through profit or loss."
+    },
+    {
+      "title": "Segment Information",
+      "structure": "3",
+      "start_index": 9,
+      "end_index": 17,
+      "nodes": [],
+      "node_id": "0010",
+      "summary": "Advantest's segment information outlines its organizational structure, which includes three main operating segments: semiconductor and component test systems, mechatronics systems, and services/support. The company reports financial results based on these segments, with the semiconductor and component test system segment showing significant growth in net sales and operating income from 2017 to 2018. The segment income is analyzed before share-based compensation expenses, and adjustments are made for corporate expenses and research activities. Additionally, Advantest adopted IFRS 15 for revenue recognition starting in the fiscal year ending March 31, 2019, affecting the reporting of financial results."
+    }
+  ]
+}

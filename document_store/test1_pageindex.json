@@ -1,0 +1,198 @@
+{
+  "doc_name": "test1.pdf",
+  "doc_description": "This document, titled \"Condensed Consolidated Financial Statements,\" provides a comprehensive overview of Advantest Corporation's financial position, performance, and cash flows for the periods ending March 31, 2018, and December 31, 2018, highlighting significant increases in total assets, equity, and net income, alongside detailed notes on the adoption of IFRS 9 and its impact on financial instruments.",
+  "structure": [
+    {
+      "title": "Condensed Consolidated Financial Statements",
+      "structure": "1",
+      "start_index": 2,
+      "end_index": 2,
+      "nodes": [
+        {
+          "title": "Condensed Consolidated Statement of Financial Position",
+          "structure": "1.1",
+          "start_index": 2,
+          "end_index": 2,
+          "nodes": [],
+          "node_id": "0001",
+          "summary": "The Condensed Consolidated Statement of Financial Position reveals an increase in total assets from ¥254,559 million as of March 31, 2018, to ¥296,594 million as of December 31, 2018, driven by growth in both current and non-current assets. Total liabilities decreased from ¥129,949 million to ¥108,454 million, primarily due to a reduction in current liabilities. Equity attributable to the owners of the parent company rose significantly from ¥124,610 million to ¥188,140 million, reflecting an increase in retained earnings and a reduction in treasury shares."
+        },
+        {
+          "title": "Condensed Consolidated Statement of Profit or Loss and Condensed Consolidated Statement of Comprehensive Income",
+          "structure": "1.2",
+          "start_index": 3,
+          "end_index": 4,
+          "nodes": [],
+          "node_id": "0002",
+          "summary": "The Condensed Consolidated Statement of Profit or Loss and Comprehensive Income reveals significant financial growth for the company between the nine months and three months ended December 31, 2017, and December 31, 2018. Net sales and net income saw substantial increases, with net income rising from ¥7,473 million to ¥48,051 million over the nine-month period. Earnings per share also improved markedly, reflecting enhanced profitability. The comprehensive income, which includes other comprehensive income items such as remeasurements of the defined benefit pension plan and exchange differences on foreign operations, also showed a notable increase, contributing to a total comprehensive income of ¥52,540 million for the nine months ended December 31, 2018."
+        },
+        {
+          "title": "Condensed Consolidated Statement of Changes in Equity",
+          "structure": "1.3",
+          "start_index": 5,
+          "end_index": 5,
+          "nodes": [],
+          "node_id": "0003",
+          "summary": "The Condensed Consolidated Statement of Changes in Equity outlines the changes in equity for the nine months ending December 31, 2017, and December 31, 2018. Key findings include a net income of ¥7,473 million and ¥48,051 million for 2017 and 2018, respectively, with total comprehensive income of ¥9,862 million in 2017 and ¥52,540 million in 2018. Significant transactions include the disposal and purchase of treasury shares, dividends, and the conversion of convertible bonds, leading to a total equity of ¥117,218 million in 2017 and ¥188,140 million in 2018. The document also notes the impact of a change in accounting policy in 2018, which adjusted the beginning balance."
+        },
+        {
+          "title": "Condensed Consolidated Statement of Cash Flows",
+          "structure": "1.4",
+          "start_index": 6,
+          "end_index": 6,
+          "nodes": [],
+          "node_id": "0004",
+          "summary": "The Condensed Consolidated Statement of Cash Flows outlines the cash flow activities for the nine months ended December 31, 2017, and 2018. The company reported a significant increase in net cash provided by operating activities, rising from ¥13,102 million in 2017 to ¥35,858 million in 2018. Cash flows from investing activities showed a net outflow, with a larger deficit in 2018, while financing activities also resulted in net cash outflows, though reduced in 2018 compared to 2017. Overall, the net change in cash and cash equivalents was positive in 2018, leading to an increase in the ending balance from ¥92,073 million in 2017 to ¥124,778 million in 2018."
+        }
+      ],
+      "node_id": "0000",
+      "prefix_summary": "The Condensed Consolidated Financial Statements section provides a comparative overview of the company's financial position as of March 31, 2018, and December 31, 2018. Key findings include an increase in total assets from ¥254,559 million to ¥296,594 million, driven by growth in both current and non-current assets. Total liabilities decreased from ¥129,949 million to ¥108,454 million, while total equity rose significantly from ¥124,610 million to ¥188,140 million, primarily due to changes in treasury shares and retained earnings."
+    },
+    {
+      "title": "Notes to the Condensed Consolidated Financial Statements",
+      "structure": "2",
+      "start_index": 7,
+      "end_index": 7,
+      "nodes": [
+        {
+          "title": "Reporting Entity",
+          "structure": "2.1",
+          "start_index": 7,
+          "end_index": 7,
+          "nodes": [],
+          "node_id": "0006",
+          "summary": "Advantest Corporation, a public company in Japan, produces semiconductor test systems and related products, and engages in R&D and support services. The company's condensed consolidated financial statements, prepared in compliance with IFRS and presented in Japanese Yen, are based on historical cost with certain financial assets and liabilities measured at fair value. The financial statements for the fiscal year ending March 31, 2019, incorporate IFRS 9 for financial instruments, which did not impact the company's financial results for the nine months ending December 31, 2018. Changes in classification and measurement of financial instruments under IFRS 9 are noted, with equity instruments now measured at fair value through other comprehensive income."
+        },
+        {
+          "title": "Basis of Preparation",
+          "structure": "2.2",
+          "start_index": 7,
+          "end_index": 7,
+          "nodes": [],
+          "node_id": "0007",
+          "summary": "The \"Basis of Preparation\" section outlines that Advantest Corporation's condensed consolidated financial statements are prepared in compliance with IFRS, specifically IAS 34, and are presented in Japanese Yen. These statements, approved by company officials, are based on historical cost with certain financial assets and liabilities measured at fair value. The section also highlights the adoption of IFRS 9 for financial instruments, which did not impact the company's financial results for the nine months ended December 31, 2018, and details the classification and measurement changes for financial instruments under this new standard."
+        },
+        {
+          "title": "Significant Accounting Policies",
+          "structure": "2.3",
+          "start_index": 7,
+          "end_index": 7,
+          "nodes": [],
+          "node_id": "0008",
+          "summary": "The section outlines Advantest Corporation's significant accounting policies, emphasizing the adoption of IFRS 9 Financial Instruments, which replaced IAS 39. This new standard affects the classification and measurement of financial instruments, including equity and debt instruments, and introduces new hedge accounting rules. The adoption did not impact Advantest's financial results for the nine months ended December 31, 2018. The financial statements are prepared in compliance with IFRS and presented in Japanese Yen, maintaining consistency with the previous fiscal year's policies."
+        },
+        {
+          "title": "Significant Accounting Judgments, Estimates and Assumptions",
+          "structure": "2.4",
+          "start_index": 8,
+          "end_index": 8,
+          "nodes": [],
+          "node_id": "0009",
+          "summary": "The section discusses Advantest's adoption of new accounting standards, specifically the transition from IAS 39 to IFRS 9 for measuring impairment of financial instruments and the adoption of IFRS 15 for revenue recognition. Under IFRS 9, Advantest now uses an expected credit loss model without restating prior periods. With IFRS 15, revenue is recognized based on a five-step model, leading to changes in the recognition of performance obligations and adjustments in financial statements, including increases in trade receivables and liabilities, and decreases in net sales and income. The section also highlights the importance of significant accounting judgments, estimates, and assumptions in preparing financial statements, noting that these are based on management's best judgment and are subject to change."
+        }
+      ],
+      "node_id": "0005",
+      "prefix_summary": "The document section outlines the condensed consolidated financial statements of Advantest Corporation, a Japanese company specializing in semiconductor and mechatronics-related products. The financial statements are prepared in compliance with IFRS, specifically IAS 34, and are presented in Japanese Yen. Significant accounting policies remain consistent with the previous fiscal year, except for the adoption of IFRS 9, which addresses the classification and measurement of financial instruments. The adoption of IFRS 9 did not impact Advantest's financial results for the nine months ended December 31, 2018."
+    },
+    {
+      "title": "Segment Information",
+      "structure": "3",
+      "start_index": 9,
+      "end_index": 10,
+      "nodes": [],
+      "node_id": "0010",
+      "summary": "The document section outlines Advantest's organizational structure, which is divided into three main operating segments: semiconductor and component test systems, mechatronics systems, and services, support, and others. These segments are based on the nature of the products and markets, with financial information prepared for management's operational decision-making. The section provides financial data for the nine months ending December 31, 2017, and 2018, showing significant growth in net sales and segment income, particularly in the semiconductor and component test system business. The accounting treatment for these segments aligns with the company's significant accounting policies, and inter-segment sales are conducted at market prices."
+    },
+    {
+      "title": "Bonds",
+      "structure": "6",
+      "start_index": 11,
+      "end_index": 11,
+      "nodes": [],
+      "node_id": "0011",
+      "summary": "The document section titled \"Bonds\" provides a financial overview of the company's performance for the three months ended December 31, 2017, and 2018. It highlights net sales, segment income, and income before taxes for different business segments, including the Semiconductor and Component Test System Business, Mechatronics System Business, and Services, Support, and Others. The data shows a significant increase in net sales and operating income from 2017 to 2018, with consolidated net sales rising from 50,876 million yen to 74,920 million yen and income before taxes increasing from 3,399 million yen to 20,619 million yen. Adjustments for share-based compensation and corporate expenses are also noted, along with a mention of income from a revision of the post-employment benefits plan."
+    },
+    {
+      "title": "Post-Employment Benefits",
+      "structure": "7",
+      "start_index": 11,
+      "end_index": 11,
+      "nodes": [],
+      "node_id": "0012",
+      "summary": "The section on Post-Employment Benefits provides a financial overview of the company's performance for the three months ended December 31, 2017, and 2018, highlighting net sales and segment income across different business units. In 2018, the company saw a significant increase in consolidated net sales and operating income compared to 2017. The document notes an adjustment due to a revision in the post-employment benefits plan, which contributed an income of 2,530 million yen for the period ending December 31, 2018. Additionally, adjustments to segment income primarily account for corporate general and administrative expenses and research and development costs not allocated to specific segments."
+    },
+    {
+      "title": "Dividends",
+      "structure": "8",
+      "start_index": 11,
+      "end_index": 11,
+      "nodes": [],
+      "node_id": "0013",
+      "summary": "The document section titled \"Dividends\" provides financial data for the company's performance in the three months ending December 31 for the years 2017 and 2018. It highlights net sales and segment income across different business units, showing a significant increase in consolidated net sales from ¥50,876 million in 2017 to ¥74,920 million in 2018. The segment income also improved, with the Semiconductor and Component Test System Business contributing the most to the increase. Adjustments for share-based compensation and other financial items are noted, with income before taxes rising from ¥3,399 million in 2017 to ¥20,619 million in 2018."
+    },
+    {
+      "title": "Revenue",
+      "structure": "9",
+      "start_index": 12,
+      "end_index": 12,
+      "nodes": [],
+      "node_id": "0014",
+      "summary": "The section outlines Advantest's adoption of IFRS 15 for revenue recognition starting from the fiscal year ending March 31, 2019, with adjustments made to retained earnings without restating prior periods. It details the conversion of Zero Coupon Convertible Bonds, resulting in a decrease in convertible bonds and treasury shares, and a shift in the company's pension plan from defined benefit to defined contribution, leading to a gain in post-employment benefits. Additionally, it reports on dividends paid, highlighting significant increases in dividend amounts and per-share values for the nine months ended December 31, 2018, compared to the previous year."
+    },
+    {
+      "title": "Other Income",
+      "structure": "10",
+      "start_index": 12,
+      "end_index": 12,
+      "nodes": [],
+      "node_id": "0015",
+      "summary": "The section outlines several financial activities and changes for Advantest. It discusses the adoption of IFRS 15 for revenue recognition, the conversion of Zero Coupon Convertible Bonds leading to a decrease in convertible bonds and treasury shares, and a shift in the company's pension plan from a defined benefit to a defined contribution plan, resulting in a gain. Additionally, it details the dividends paid for the nine months ended December 31, 2017, and 2018, highlighting significant increases in dividend amounts and per-share values in 2018."
+    },
+    {
+      "title": "Earnings per Share",
+      "structure": "11",
+      "start_index": 13,
+      "end_index": 14,
+      "nodes": [],
+      "node_id": "0016",
+      "summary": "The section on \"Earnings per Share\" details the calculation of basic and diluted earnings per share for Advantest, highlighting a significant increase in net income attributable to owners of the parent from 7,473 million yen in 2017 to 48,051 million yen in 2018. The weighted average number of ordinary shares increased, resulting in basic earnings per share rising from 42.13 yen to 258.10 yen, and diluted earnings per share from 38.52 yen to 242.20 yen. The section also notes the dilutive effects of convertible bonds and share options, with certain share options excluded due to their anti-dilutive effect."
+    },
+    {
+      "title": "Financial Instruments",
+      "structure": "12",
+      "start_index": 15,
+      "end_index": 15,
+      "nodes": [
+        {
+          "title": "Carrying Amounts and Fair Value of Financial Instruments",
+          "structure": "12.1",
+          "start_index": 15,
+          "end_index": 15,
+          "nodes": [],
+          "node_id": "0018",
+          "summary": "The section provides a comparison of net income and earnings per share for the three months ended December 31, 2017, and December 31, 2018, highlighting a significant increase in net income attributable to the owners of the parent. It also details the dilutive effects of convertible bonds and share options on earnings per share. Additionally, the section outlines the carrying amounts and fair values of financial instruments, noting that the fair values of convertible bonds are based on similar bonds without conversion options, and that other financial instruments' fair values approximate their carrying amounts due to short-term settlement."
+        },
+        {
+          "title": "Fair Value Hierarchy of Financial Instruments",
+          "structure": "12.2",
+          "start_index": 16,
+          "end_index": 16,
+          "nodes": [],
+          "node_id": "0019",
+          "summary": "The section outlines the classification of financial instruments into a three-level fair value hierarchy based on the observability and materiality of measurement inputs, with Level 1 using quoted prices in active markets, Level 2 using observable inputs other than Level 1, and Level 3 using significant unobservable inputs. It notes that the level is determined by the lowest level input used in the measurement and that no transfers occurred between Level 1 and Level 2 during the specified periods. As of March 31, 2018, and December 31, 2018, all financial assets measured at fair value were classified as Level 3, with totals of 698 million yen and 1,130 million yen, respectively."
+        }
+      ],
+      "node_id": "0017",
+      "prefix_summary": "The section on Financial Instruments details the net income and earnings per share for the three months ended December 31, 2017, and 2018, highlighting a significant increase in net income attributable to the parent from 2,547 million yen to 17,902 million yen. It also discusses the dilutive effects of convertible bonds and share options on earnings per share. Additionally, the section provides information on the carrying amounts and fair values of financial instruments, noting that bonds are valued based on similar non-convertible bonds and that other financial instruments have fair values approximating their carrying amounts due to short-term settlement."
+    },
+    {
+      "title": "Subsequent Event",
+      "structure": "13",
+      "start_index": 17,
+      "end_index": 17,
+      "nodes": [],
+      "node_id": "0020",
+      "summary": "The section details the conversion of Zero Coupon Convertible Bonds due in 2019, which occurred between January 1 and February 8, 2019. This conversion resulted in a decrease of 1,886 million yen in convertible bonds, 45 million yen in share premium, 4,458 million yen in treasury shares, and 2,527 million yen in retained earnings, with the issuance of 1,178,229 ordinary shares."
+    }
+  ]
+}

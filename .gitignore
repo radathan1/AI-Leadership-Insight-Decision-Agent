@@ -1,0 +1,9 @@
+# Ignore environment file containing secrets
+.env
+
+# Ignore Node modules
+node_modules/
+
+# Optional: ignore Python cache (project contains Python files)
+__pycache__/
+
