@@ -1,4 +1,8 @@
-# DocuMind — Reasoning-based RAG 
+# DocuMind — Reasoning-based RAG
+
+<p align="center">
+  <img src="./Documind.png" alt="DocuMind" />
+</p>
 
 ## 1) Overview
 
